@@ -12,4 +12,4 @@ pluginManagement {
 rootProject.name = "lexadky-template-android-build-preset"
 
 include(":preset")
-include(":dependencies")
+include(":module-generator")

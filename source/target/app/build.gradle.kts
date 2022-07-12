@@ -1,5 +1,5 @@
 plugins {
-    id("org.lexadiky.template.gradle.preset.target")
+    id("org.lexadiky.gradle.preset.target-android")
 }
 
 android {

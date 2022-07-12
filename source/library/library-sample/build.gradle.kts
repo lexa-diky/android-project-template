@@ -1,3 +1,3 @@
 plugins {
-    id("org.lexadiky.template.gradle.preset.android-library")
+    id("org.lexadiky.gradle.preset.library-android")
 }
